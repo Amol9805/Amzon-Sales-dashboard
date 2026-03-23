@@ -114,7 +114,7 @@ This page provides insights into overall sales performance and trends.
 * Analyzes time-based purchasing behavior
 
 ### Screenshot/Demos:
-* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/Sales.png)
 ---
 
 ## 🟢 3. Customer Analysis
