@@ -91,6 +91,8 @@ This page focuses on identifying top-performing and underperforming product cate
 * Compares product performance against average sales
 * Evaluates product-wise customer satisfaction
 
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
 ---
 
 ## 🟠 2. Sales Analysis
