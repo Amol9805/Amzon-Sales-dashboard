@@ -134,6 +134,9 @@ This page focuses on customer segmentation and behavior.
 * Balanced gender distribution across branches
 * E-wallet and cash are dominant payment methods
 
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/Customer.png)
+
 ---
 
 ## 🟡 4. Rating Analysis
