@@ -1,4 +1,4 @@
-#  Amazon Sales Analysis Dashboard (MySQL, Power BI)
+#  Amazon Sales Analysis Dashboard (MySQL, Power BI) 
 
 ## 🔷 Project Overview
 
